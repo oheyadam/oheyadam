@@ -8,5 +8,3 @@ You can find me on:
 - <a rel="me" href="https://twitter.com/oheyadam">Twitter</a>
 - <a rel="me" href="https://oheyadam.medium.com">Medium</a>
 - <a rel="me" href="https://speakerdeck.com/oheyadam">Speaker Deck</a>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=oheyadam)](https://github.com/anuraghazra/github-readme-stats)
